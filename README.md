@@ -6,5 +6,5 @@ Fun Facts
 
 - I use Neovim btw
 - I am rated 2200 on [Chess.com](https://www.chess.com/member/yearoftheheron)
-- One Piece is my favorite manga 
+- Vagabond is my favorite manga 
 - I am currently reading Game of Thrones
