@@ -5,6 +5,6 @@ I am a computer science student at the University of Houston who is working towa
 Fun Facts
 
 - I use Neovim btw
-- I am rated 2200 on [Chess.com](https://www.chess.com/member/yearoftheheron)
+- I am rated 2300 on [Chess.com](https://www.chess.com/member/yearoftheheron)
 - Vagabond is my favorite manga 
 - I am currently reading Game of Thrones
