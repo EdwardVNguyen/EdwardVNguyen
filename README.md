@@ -15,8 +15,9 @@
 
 ---
 <div align="center">
-
-I'm a computer science student at the University of Houston, I build full stack applications!
+   
+I'm a computer science student at the University of Houston, I am a 
+JavaScript developer who builds full stack applications.
 
 </div>
 
